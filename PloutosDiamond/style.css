@@ -1,0 +1,39 @@
+
+
+ .baslik{
+   position:absolute;
+   top: 20px;
+   right: 20px;
+   color: rgb(73, 141, 153);
+   
+}
+
+.magaza{
+   margin:0 auto;
+   display:table; 
+   color: rgb(102, 138, 49) ;
+   font-family: 'Bitter', serif;
+   font-family: 'Libre Baskerville', serif;
+   font-family: 'Playfair Display', serif;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+ .slog{
+   
+   margin:30px auto ;
+      display:table; 
+      font-size: 25px;
+      font-family:Georgia, 'Times New Roman';
+ }
+
+ .bosluk{
+   margin: 45px;
+   /* border: 0.7px solid grey */
+   
+  
+ }
